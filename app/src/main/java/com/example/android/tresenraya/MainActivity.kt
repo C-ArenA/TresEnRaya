@@ -269,8 +269,6 @@ class MainActivity : AppCompatActivity() {
             }
         }
 
-        Log.i("GAME_CARLOS!", "X: $xfilledSpaces")
-        Log.i("GAME_CARLOS!", "Y: $yfilledSpaces")
         xfilledSpaces.clear()
         yfilledSpaces.clear()
     }
