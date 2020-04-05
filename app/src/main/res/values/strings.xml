@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TresEnRaya</string>
+    <string name="nombre_juego">Tres En Raya</string>
+    <string name="ganaX">Ganaste!!! X!</string>
+    <string name="start_button_message">START</string>
+    <string name="imgDesc">red line telling the user the game has finished</string>
+    <string name="xWonMessage">Ganaste X!! Restriégaselo en la cara a O :)</string>
+    <string name="yWonMessage">Ganaste O!! Restriégaselo en la cara a X :)</string>
+    <string name="empate">Empataron! JAJAJA Inútiles XD</string>
+</resources>
