@@ -1,12 +1,11 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="accentMode" value="true" />
-    <option name="isContrastMode" value="true" />
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
-    <option name="overrideAccentColor" value="true" />
     <option name="pristineConfig" value="false" />
-    <option name="accentColor" value="009688" />
+    <option name="accentColor" value="213653" />
+    <option name="selectedTheme" value="DEEPOCEAN" />
     <option name="userId" value="165ace6d:1718a378955:-8000" />
     <option name="version" value="4.5.2" />
   </component>
